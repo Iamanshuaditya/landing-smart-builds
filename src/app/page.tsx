@@ -5,7 +5,6 @@ const stats = [
   { value: "38", label: "New enquiries today" },
   { value: "21", label: "Follow-ups due" },
   { value: "14", label: "Site visits this week" },
-  { value: "06", label: "Missed follow-ups" },
 ];
 
 const leadDetails = [
