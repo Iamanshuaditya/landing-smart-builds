@@ -350,7 +350,7 @@ body {
   position: absolute;
   inset: 0;
   z-index: 0;
-  background-image: url("/Hero.jpeg");
+  background-image: url("/Hero.png");
   background-position: 68% center;
   background-repeat: no-repeat;
   background-size: cover;
